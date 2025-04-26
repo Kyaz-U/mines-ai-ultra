@@ -1,0 +1,6 @@
+pandas
+matplotlib
+scikit-learn
+python-dotenv
+pyTelegramBotAPI
+joblib
